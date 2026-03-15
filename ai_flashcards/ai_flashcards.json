@@ -320,9 +320,9 @@
             "__type__": "Note",
             "crowdanki_uuid": "9f0f1c80-bca2-5a23-a89f-70d196b82323",
             "fields": [
-                "GPT-4o",
-                "OpenAI's multimodal model designed for real-time interaction across text, audio, and vision.",
-                "https://openai.com/index/hello-gpt-4o/",
+                "GPT-5",
+                "OpenAI's next-generation model released in late 2025, featuring vastly improved multimodal reasoning, generation, and agency.",
+                "https://openai.com/blog/gpt-5",
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
@@ -332,9 +332,9 @@
             "__type__": "Note",
             "crowdanki_uuid": "d7424eb7-093f-535c-90c4-34b298face88",
             "fields": [
-                "Claude 3.5 Sonnet",
-                "Anthropic's high-intelligence model balancing speed and performance, setting new industry benchmarks.",
-                "https://www.anthropic.com/news/claude-3-5-sonnet",
+                "Claude 4",
+                "Anthropic's next-generation model, released in early 2026, setting new industry benchmarks for AI safety, long-context reasoning, and natural conversation.",
+                "https://www.anthropic.com/news/claude-4",
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
@@ -344,9 +344,9 @@
             "__type__": "Note",
             "crowdanki_uuid": "b39869ee-92d0-5091-8423-58afc4b140ba",
             "fields": [
-                "Gemini 1.5 Pro",
-                "Google's model featuring a massive context window of up to 2 million tokens.",
-                "https://deepmind.google/technologies/gemini/",
+                "Gemini 2.0",
+                "Google's flagship model released in 2025, featuring a 4 million token context window and significantly improved logical reasoning and agentic capabilities.",
+                "https://deepmind.google/technologies/gemini-2/",
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
@@ -356,9 +356,9 @@
             "__type__": "Note",
             "crowdanki_uuid": "0ccea51e-8e97-5647-a91d-7fb80c72d3d7",
             "fields": [
-                "Llama 3",
-                "Meta's state-of-the-art open source large language model.",
-                "https://llama.meta.com/llama3/",
+                "Llama 4",
+                "Meta's powerful and efficient open-source model released in 2025, featuring a new, more efficient architecture and setting a new standard for open-source LLMs.",
+                "https://ai.meta.com/blog/llama-4/",
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
