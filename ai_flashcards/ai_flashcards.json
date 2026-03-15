@@ -1,0 +1,1280 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "a78f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "crowdanki_uuid": "c28f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "name": "Default",
+            "new": {
+                "perDay": 20
+            },
+            "rev": {
+                "perDay": 200
+            }
+        }
+    ],
+    "deck_config_uuid": "c28f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+    "desc": "A deck of 100 flashcards covering the Generative and Agentic AI era of 2026.",
+    "media_files": [],
+    "name": "Generative and Agentic AI (2026)",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "flds": [
+                {
+                    "name": "Front",
+                    "ord": 0,
+                    "sticky": false,
+                    "rtl": false,
+                    "font": "Arial",
+                    "size": 20,
+                    "media": []
+                },
+                {
+                    "name": "Back",
+                    "ord": 1,
+                    "sticky": false,
+                    "rtl": false,
+                    "font": "Arial",
+                    "size": 20,
+                    "media": []
+                },
+                {
+                    "name": "Reference Link",
+                    "ord": 2,
+                    "sticky": false,
+                    "rtl": false,
+                    "font": "Arial",
+                    "size": 20,
+                    "media": []
+                },
+                {
+                    "name": "Last Updated",
+                    "ord": 3,
+                    "sticky": false,
+                    "rtl": false,
+                    "font": "Arial",
+                    "size": 20,
+                    "media": []
+                }
+            ],
+            "name": "AI Card Model",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n.link { font-size: 14px; color: blue; text-decoration: underline; margin-top: 10px; }",
+            "type": 0,
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "<div style=\"font-family: Arial; font-size: 32px; text-align: center;\">{{Front}}</div>",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n<div style=\"font-family: Arial; font-size: 20px; text-align: center;\">{{Back}}</div>\n<div class=\"link\"><a href=\"{{Reference Link}}\">Reference</a></div>\n<div style=\"font-family: Arial; font-size: 12px; color: gray; text-align: center; margin-top: 20px;\">Updated: {{Last Updated}}</div>"
+                }
+            ]
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "b457f4e2-d5bc-58bb-a1ee-12861099d538",
+            "fields": [
+                "LangChain",
+                "A framework for developing applications powered by large language models (LLMs).",
+                "https://python.langchain.com/docs/get_started/introduction",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "a7a3c500-3713-5a6e-b2ab-f80cb07dfcbe",
+            "fields": [
+                "LlamaIndex",
+                "A data framework for LLM-based applications to ingest, structure, and access private or domain-specific data.",
+                "https://www.llamaindex.ai/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "f13dcdf6-7e75-5e88-8917-eab91befd1ff",
+            "fields": [
+                "Haystack",
+                "An open-source NLP framework by deepset to build search systems and LLM applications.",
+                "https://haystack.deepset.ai/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "dda04d72-e746-5ecb-9d72-024b59a6a19a",
+            "fields": [
+                "AutoGPT",
+                "An experimental open-source application showcasing the capabilities of the GPT-4 language model to act autonomously.",
+                "https://github.com/Significant-Gravitas/Auto-GPT",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "439b1cde-7ba9-5859-a195-55f97fb40913",
+            "fields": [
+                "CrewAI",
+                "A framework for orchestrating role-playing, autonomous AI agents to work together on complex tasks.",
+                "https://www.crewai.com/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "2bee074e-f634-5e9a-92a9-a5758c678d1a",
+            "fields": [
+                "LangGraph",
+                "A library for building stateful, multi-actor applications with LLMs, built on top of LangChain.",
+                "https://langchain-ai.github.io/langgraph/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "a6587ecc-b016-5e0c-b36b-0cc7fecd3c5a",
+            "fields": [
+                "DSPy",
+                "A framework for programming—rather than prompting—language models, focusing on declarative modules and optimizers.",
+                "https://github.com/stanfordnlp/dspy",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "d5fda30b-df78-5aa8-bb69-1e9ea3e2b7b4",
+            "fields": [
+                "Semantic Kernel",
+                "An open-source SDK by Microsoft that lets you easily combine AI services with conventional programming languages.",
+                "https://learn.microsoft.com/en-us/semantic-kernel/overview/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "549840f2-7139-567c-9944-f7749b1ba96d",
+            "fields": [
+                "BabyAGI",
+                "A simplified version of an autonomous AI agent that uses LLMs to create, prioritize, and execute tasks.",
+                "https://github.com/yoheinakajima/babyagi",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "f389e43f-22e2-58ab-8ae9-22882bff11f5",
+            "fields": [
+                "Guidance",
+                "A guidance language for controlling large language models more effectively than traditional prompting.",
+                "https://github.com/guidance-ai/guidance",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "593bb08e-6a04-50d4-aa86-3c7cd94e39ee",
+            "fields": [
+                "Outlines",
+                "A library for structured text generation that ensures LLM outputs follow a specific schema.",
+                "https://github.com/outlines-dev/outlines",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "93c1b3b4-dce6-5654-b2b7-8dd8fb9e8aa7",
+            "fields": [
+                "Mojo",
+                "A programming language designed for AI development that combines the syntax of Python with the performance of C.",
+                "https://www.modular.com/mojo",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "3b6f3f88-ab7c-52cd-97ed-f4204de5ed66",
+            "fields": [
+                "vLLM",
+                "A high-throughput and memory-efficient inference and serving engine for LLMs.",
+                "https://github.com/vllm-project/vllm",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "0d23a4e4-27d2-59d6-8f1a-69d2cdeb2cf5",
+            "fields": [
+                "Text Generation Inference (TGI)",
+                "A toolkit by Hugging Face for deploying and serving Large Language Models.",
+                "https://github.com/huggingface/text-generation-inference",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "5cca562e-e473-53ad-9c03-536e3e8c5ee4",
+            "fields": [
+                "OpenInterpreter",
+                "An open-source, locally running implementation of OpenAI's Code Interpreter.",
+                "https://openinterpreter.com/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "780b9200-a166-5682-8c2c-286e48631c6b",
+            "fields": [
+                "AgentProtocol",
+                "A standard for communication between AI agents and the platforms that run them.",
+                "https://agentprotocol.ai/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "2d6104ea-59e1-5a7f-b842-134faa6862c1",
+            "fields": [
+                "Griptape",
+                "An enterprise-grade Python framework for building AI applications with LLMs.",
+                "https://www.griptape.ai/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "4e8984b9-b76d-5dc6-99c9-519efd445aab",
+            "fields": [
+                "Phidata",
+                "A framework for building AI Assistants with memory, knowledge, and tools.",
+                "https://www.phidata.com/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "f837dcf2-d1b8-565c-bd2f-9a6baf4880f4",
+            "fields": [
+                "TaskWeaver",
+                "A code-first agent framework for seamless planning and execution of data analytics tasks.",
+                "https://github.com/microsoft/TaskWeaver",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "931d8b9e-f53f-55e0-b394-f51762ed12fc",
+            "fields": [
+                "MetaGPT",
+                "A multi-agent framework that assigns different roles to GPTs to form a collaborative software entity.",
+                "https://github.com/geekan/MetaGPT",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "9f0f1c80-bca2-5a23-a89f-70d196b82323",
+            "fields": [
+                "GPT-4o",
+                "OpenAI's multimodal model designed for real-time interaction across text, audio, and vision.",
+                "https://openai.com/index/hello-gpt-4o/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "d7424eb7-093f-535c-90c4-34b298face88",
+            "fields": [
+                "Claude 3.5 Sonnet",
+                "Anthropic's high-intelligence model balancing speed and performance, setting new industry benchmarks.",
+                "https://www.anthropic.com/news/claude-3-5-sonnet",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "b39869ee-92d0-5091-8423-58afc4b140ba",
+            "fields": [
+                "Gemini 1.5 Pro",
+                "Google's model featuring a massive context window of up to 2 million tokens.",
+                "https://deepmind.google/technologies/gemini/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "0ccea51e-8e97-5647-a91d-7fb80c72d3d7",
+            "fields": [
+                "Llama 3",
+                "Meta's state-of-the-art open source large language model.",
+                "https://llama.meta.com/llama3/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "624b5b24-904b-5c6c-b9aa-cc5a72a33297",
+            "fields": [
+                "Mistral Large",
+                "Mistral AI's premier closed-source model designed for complex multilingual reasoning tasks.",
+                "https://mistral.ai/news/mistral-large/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "05b73815-bfa1-582a-9f34-73fcfa50877d",
+            "fields": [
+                "DeepSeek-V2",
+                "A strong Mixture-of-Experts (MoE) language model known for high efficiency and performance.",
+                "https://github.com/deepseek-ai/DeepSeek-V2",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "0d43546c-3760-5364-aba5-c4b520874e0b",
+            "fields": [
+                "Grok-1.5",
+                "xAI's frontier model with improved reasoning capabilities and a 128k context window.",
+                "https://x.ai/blog/grok-1.5",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "9f0e7c4d-3a4b-50bb-bb47-736054ff2157",
+            "fields": [
+                "Sora",
+                "OpenAI's text-to-video model capable of generating realistic and imaginative scenes.",
+                "https://openai.com/sora",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "b3fbdf0a-9db6-5339-9edd-8ca787d6e9c2",
+            "fields": [
+                "Flux",
+                "A state-of-the-art text-to-image model family developed by Black Forest Labs.",
+                "https://blackforestlabs.ai/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "8b8f4dc3-6b85-5c41-b68a-ced05c4b8ff4",
+            "fields": [
+                "Stable Diffusion 3",
+                "Stability AI's most capable text-to-image model using a Diffusion Transformer architecture.",
+                "https://stability.ai/news/stable-diffusion-3",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "2868c701-82db-5512-b4f6-db69043c2f16",
+            "fields": [
+                "Command R+",
+                "Cohere's scalable model optimized for enterprise-grade RAG and tool use.",
+                "https://cohere.com/blog/command-r-plus-microsoft-azure",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "97b412a0-62cf-5695-8bcb-81e950589445",
+            "fields": [
+                "DALL-E 3",
+                "OpenAI's latest image generation model that understands significantly more nuance and detail.",
+                "https://openai.com/dall-e-3",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "b06f3359-4b77-5ee4-9152-8d7ed9dec4a6",
+            "fields": [
+                "Whisper",
+                "An open-source automatic speech recognition (ASR) system trained by OpenAI.",
+                "https://openai.com/research/whisper",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "5643b14f-e1d4-5471-8084-50a10256221a",
+            "fields": [
+                "Jamba",
+                "AI21 Labs' hybrid SSM-Transformer model architecture.",
+                "https://www.ai21.com/blog/announcing-jamba",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "5bbeb264-a16b-5e0e-95fe-1df10d6515d4",
+            "fields": [
+                "Arctic",
+                "Snowflake's open, enterprise-grade MoE model designed for efficient inference.",
+                "https://www.snowflake.com/blog/introducing-snowflake-arctic/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "59409e4a-3bed-5a12-a3b9-6592268be2b4",
+            "fields": [
+                "Phi-3 Mini",
+                "Microsoft's lightweight, 3.8B parameter model that outperforms models twice its size.",
+                "https://azure.microsoft.com/en-us/blog/introducing-phi-3-redefining-what-is-possible-with-slms/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "6a4f16c0-7440-5455-8e0a-c4f1170e4f2f",
+            "fields": [
+                "DBRX",
+                "Databricks' open, general-purpose LLM that set a new state-of-the-art for open models.",
+                "https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "08f4c5bd-adf1-579a-b0a5-ead1a544b31e",
+            "fields": [
+                "Gemma",
+                "A family of lightweight, state-of-the-art open models built from the same research as Gemini.",
+                "https://blog.google/technology/ai/google-gemma-open-models/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "84110bbf-b98e-5fd9-bb6a-2eabb2bbf01d",
+            "fields": [
+                "Qwen 2",
+                "Alibaba Cloud's latest generation of large language models and large multimodal models.",
+                "https://qwenlm.github.io/blog/qwen2/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "ba2f9ad6-3ae0-5fe3-af0d-4335694c80cc",
+            "fields": [
+                "Groq",
+                "LPU (Language Processing Unit) Inference Engine specifically designed for LLMs to achieve record speeds.",
+                "https://groq.com/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "bee7edce-87d6-51f1-84a8-8327d9b88653",
+            "fields": [
+                "RAG (Retrieval-Augmented Generation)",
+                "A technique that grants LLMs access to specific, up-to-date information through data retrieval.",
+                "https://research.ibm.com/blog/retrieval-augmented-generation-RAG",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "209b12bf-0511-5b62-ab32-27120e4a2e04",
+            "fields": [
+                "ReAct (Reasoning and Acting)",
+                "A paradigm where LLMs generate reasoning traces and task-specific actions in an interleaved manner.",
+                "https://arxiv.org/abs/2210.03629",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "3f044e6f-798d-51ca-993c-f73388d949bb",
+            "fields": [
+                "Chain-of-Thought (CoT)",
+                "A prompting technique that encourages the model to generate intermediate steps before the final answer.",
+                "https://arxiv.org/abs/2201.11903",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "c6c00ee6-9707-5c23-9872-d13c745db25a",
+            "fields": [
+                "Tree of Thoughts (ToT)",
+                "A framework that allows LLMs to explore multiple reasoning paths and self-evaluate choices.",
+                "https://arxiv.org/abs/2305.10601",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "d4895e48-1170-5d9c-a4f1-d737d0ff3dd6",
+            "fields": [
+                "Self-Reflection",
+                "An agent pattern where the model critiques its own output to improve subsequent iterations.",
+                "https://arxiv.org/abs/2303.11366",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "b23565be-5800-58f6-bb73-b55e5b3de8be",
+            "fields": [
+                "Tool Use / Function Calling",
+                "The ability of an LLM to generate structured output that can be used to invoke external APIs or functions.",
+                "https://platform.openai.com/docs/guides/function-calling",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "17e5e2d5-afbe-5b5e-9b97-af3d8b1ffc6a",
+            "fields": [
+                "Multi-agent Systems",
+                "A design where multiple specialized agents collaborate or compete to solve complex tasks.",
+                "https://www.deeplearning.ai/the-batch/how-multi-agent-systems-can-work-together/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "c8f399a3-3a81-511e-be61-7ab816c0b7da",
+            "fields": [
+                "Agentic Workflows",
+                "Iterative loops where AI agents plan, execute, and refine their work autonomously.",
+                "https://www.deeplearning.ai/the-batch/issue-242/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "cb528e2d-b954-5215-a5d5-d99b1b541493",
+            "fields": [
+                "Long-context strategies",
+                "Techniques like RAG or specialized architectures to handle and reason over massive amounts of input data.",
+                "https://blog.langchain.dev/planning-for-long-context/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "31133551-4c05-585f-9309-71c3aefd634c",
+            "fields": [
+                "Prompt Engineering",
+                "The process of refining and optimizing inputs to LLMs to achieve desired outputs.",
+                "https://www.promptingguide.ai/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "af776bde-ab3a-5c0c-9281-d4f656324206",
+            "fields": [
+                "Few-Shot Prompting",
+                "Providing a few examples in the prompt to guide the model's behavior and output format.",
+                "https://arxiv.org/abs/2005.14165",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "05d896c7-e668-5f5d-b8ce-85e95d4f593a",
+            "fields": [
+                "Zero-Shot Prompting",
+                "Asking the model to perform a task without providing any prior examples.",
+                "https://arxiv.org/abs/2109.01652",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "0b100a84-0e47-54a0-a5ab-cd59f5dc1974",
+            "fields": [
+                "Self-Consistency",
+                "A technique that samples multiple reasoning paths and selects the most consistent answer.",
+                "https://arxiv.org/abs/2203.11171",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "a7e065b1-0ff7-5fe8-a29c-7b6c731c7dde",
+            "fields": [
+                "Plan-and-Solve Prompting",
+                "A strategy where the model first creates a plan and then executes it step-by-step.",
+                "https://arxiv.org/abs/2305.04091",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "f5035807-a4ad-5bf1-aea9-a19c988f5005",
+            "fields": [
+                "Graph-of-Thoughts (GoT)",
+                "A framework that models LLM reasoning as a non-linear graph for more complex problem-solving.",
+                "https://arxiv.org/abs/2308.09687",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "59c2e40e-d239-5905-9b57-d94cfe21b71e",
+            "fields": [
+                "Memory Augmentation",
+                "Providing agents with short-term and long-term memory to maintain context over time.",
+                "https://lilianweng.github.io/posts/2023-06-23-agent/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "0d02db0f-d7ed-5680-9860-4b7b545ad045",
+            "fields": [
+                "Iterative Refinement",
+                "A process where the model continuously improves a draft based on feedback or new information.",
+                "https://arxiv.org/abs/2203.05115",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "f89c36ed-c1c4-5cf7-b918-b2dec19b24a4",
+            "fields": [
+                "Skeleton-of-Thought",
+                "A method to speed up LLM generation by first creating a skeleton and then filling in details in parallel.",
+                "https://arxiv.org/abs/2307.15337",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "16f403de-c3fa-5d49-bc23-bd6a6900e6f9",
+            "fields": [
+                "Chain-of-Verification (CoVe)",
+                "A technique where the model generates a draft, identifies potential errors, and verifies them.",
+                "https://arxiv.org/abs/2309.11495",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "20544ec3-6746-5083-9cfc-f64a5731cebb",
+            "fields": [
+                "Least-to-Most Prompting",
+                "A strategy that breaks down a complex problem into simpler sub-problems and solves them sequentially.",
+                "https://arxiv.org/abs/2205.10625",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "e5451acd-0ca8-5096-a83e-bb70432a5b85",
+            "fields": [
+                "OpenAI",
+                "The AI research and deployment company behind GPT-4, DALL-E, and Sora.",
+                "https://openai.com/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "e3e60462-7fde-5dfb-aec8-d3c41af0aca4",
+            "fields": [
+                "Anthropic",
+                "An AI safety and research company, creator of the Claude family of models.",
+                "https://www.anthropic.com/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "91a1e833-2770-55a3-abbf-784ac9ceffc8",
+            "fields": [
+                "Google DeepMind",
+                "Google's AI research lab responsible for Gemini, AlphaGo, and AlphaFold.",
+                "https://deepmind.google/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "b823bba9-d1d3-5b34-a60c-da2645d83ded",
+            "fields": [
+                "Meta AI",
+                "Meta's research division focused on open science and the Llama model family.",
+                "https://ai.meta.com/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "7a9fcc2b-8169-5fdb-ab95-a03415fd94c1",
+            "fields": [
+                "NVIDIA",
+                "The leading provider of GPU hardware and software platforms (CUDA) for AI training and inference.",
+                "https://www.nvidia.com/en-us/ai-data-center/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "9fee8131-b7b5-59c5-b42b-a03e3f41c0bb",
+            "fields": [
+                "Microsoft Azure AI",
+                "A suite of AI services and tools provided by Microsoft's cloud platform.",
+                "https://azure.microsoft.com/en-us/solutions/ai",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "c9918ab0-9aa0-5f19-9eaf-0a2da2253882",
+            "fields": [
+                "Hugging Face",
+                "A platform and community that provides tools for building, training, and deploying ML models.",
+                "https://huggingface.co/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "8d3f40c9-da8d-54c3-96b9-5568a4ace107",
+            "fields": [
+                "Perplexity AI",
+                "An AI-powered search engine that provides direct answers with citations.",
+                "https://www.perplexity.ai/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "1aa2cb3f-f1db-5494-8373-a0e53dff4a54",
+            "fields": [
+                "Mistral AI",
+                "A European AI company focused on high-performance open and efficient models.",
+                "https://mistral.ai/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "b0a19801-6987-50f3-84d4-9c013c908f6a",
+            "fields": [
+                "xAI",
+                "Elon Musk's AI company, developer of the Grok models.",
+                "https://x.ai/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "019176a7-41fc-535a-b355-8c40658a38f6",
+            "fields": [
+                "Cohere",
+                "An enterprise AI platform focusing on LLMs for business applications and RAG.",
+                "https://cohere.com/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "c0dfdf29-f4f0-554e-b3fe-f2479d9179a7",
+            "fields": [
+                "Databricks",
+                "A data and AI company that created the DBRX model and the Spark platform.",
+                "https://www.databricks.com/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "df218c78-0f07-5e11-987b-d86a42e787b5",
+            "fields": [
+                "Snowflake",
+                "A data cloud company that expanded into AI with the Arctic model and Cortex service.",
+                "https://www.snowflake.com/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "fc29b31f-9fe8-5bbc-99bc-bdeb49f7d356",
+            "fields": [
+                "Stability AI",
+                "The company behind Stable Diffusion and other open-source generative AI models.",
+                "https://stability.ai/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "1a70312c-0c66-52c5-987d-52b4f4b68d39",
+            "fields": [
+                "Midjourney",
+                "An independent research lab exploring new mediums of thought and expanding imaginative powers of the human species.",
+                "https://www.midjourney.com/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "f8a5d792-406e-5295-9b7c-f2676b58f076",
+            "fields": [
+                "Scale AI",
+                "A data infrastructure company that provides high-quality training data for AI models.",
+                "https://scale.com/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "bfbd132f-277f-5f50-94a7-5bddf514fa6d",
+            "fields": [
+                "LangChain Inc.",
+                "The company behind the popular LangChain framework and LangSmith platform.",
+                "https://www.langchain.com/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "dd4812ac-0cac-5386-99e0-87a22d038e81",
+            "fields": [
+                "Pinecone",
+                "A vector database company providing essential infrastructure for RAG and AI memory.",
+                "https://www.pinecone.io/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "ec6392a5-fac9-53b9-9c12-d2d70b0fa9b9",
+            "fields": [
+                "Weights & Biases",
+                "A developer-first MLOps platform for tracking and visualizing ML experiments.",
+                "https://wandb.ai/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "ad5e5802-3a23-5bb1-8c45-0e7c6531b9b0",
+            "fields": [
+                "Character.ai",
+                "A platform for interacting with AI characters using neural language models.",
+                "https://character.ai/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "6b53f369-abf5-5e1f-bcbb-c654094d18d7",
+            "fields": [
+                "Sam Altman",
+                "CEO of OpenAI and a prominent figure in the AI industry.",
+                "https://en.wikipedia.org/wiki/Sam_Altman",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "3b4a43f4-c9da-5a9c-8305-67ca6e8b9ca6",
+            "fields": [
+                "Dario Amodei",
+                "CEO and co-founder of Anthropic, formerly VP of Research at OpenAI.",
+                "https://en.wikipedia.org/wiki/Dario_Amodei",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "e0435589-08ac-5eaa-a96f-f2ebc2ebfcfd",
+            "fields": [
+                "Demis Hassabis",
+                "CEO and co-founder of Google DeepMind, known for AlphaGo.",
+                "https://en.wikipedia.org/wiki/Demis_Hassabis",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "1a9e981d-70aa-5974-be52-b92fbef7a377",
+            "fields": [
+                "Yann LeCun",
+                "Chief AI Scientist at Meta and a pioneer in convolutional neural networks.",
+                "https://en.wikipedia.org/wiki/Yann_LeCun",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "30106028-9ae5-5181-a7b7-44d44eafe2c1",
+            "fields": [
+                "Andrej Karpathy",
+                "Co-founder of OpenAI, former Director of AI at Tesla, and prominent educator.",
+                "https://karpathy.ai/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "2e240909-725e-5bed-9c1a-cf78e303e33b",
+            "fields": [
+                "Greg Brockman",
+                "President and co-founder of OpenAI.",
+                "https://en.wikipedia.org/wiki/Greg_Brockman",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "14b0c4cf-05fc-5ef2-95e6-e4df3db57dba",
+            "fields": [
+                "Mira Murati",
+                "CTO of OpenAI, leading the development of GPT and DALL-E.",
+                "https://en.wikipedia.org/wiki/Mira_Murati",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "d777113e-0a13-5aa9-aab7-f50396e87e1e",
+            "fields": [
+                "Ilya Sutskever",
+                "Co-founder and former Chief Scientist of OpenAI, key figure in Deep Learning.",
+                "https://en.wikipedia.org/wiki/Ilya_Sutskever",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "fb84f78d-fef7-5f99-ae80-dfac4da2cfe0",
+            "fields": [
+                "Jensen Huang",
+                "CEO and co-founder of NVIDIA.",
+                "https://en.wikipedia.org/wiki/Jensen_Huang",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "b14b7e39-40c2-5cfd-951c-09b3cb7eb381",
+            "fields": [
+                "Andrew Ng",
+                "Co-founder of Coursera and Google Brain, and a leading AI educator.",
+                "https://www.andrewng.org/",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "0e2457a8-a2b0-5295-86cf-e50101f0e9c7",
+            "fields": [
+                "Fei-Fei Li",
+                "Professor at Stanford and co-director of HAI, known for ImageNet.",
+                "https://en.wikipedia.org/wiki/Fei-Fei_Li",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "fc58af7b-40a5-5195-9c75-fd2495b03bee",
+            "fields": [
+                "Geoffrey Hinton",
+                "Known as the 'Godfather of AI' for his work on backpropagation and deep learning.",
+                "https://en.wikipedia.org/wiki/Geoffrey_Hinton",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "6527aae1-3a06-5c38-b353-7cf262bfcdff",
+            "fields": [
+                "Yoshua Bengio",
+                "A leading figure in deep learning and recipient of the Turing Award.",
+                "https://en.wikipedia.org/wiki/Yoshua_Bengio",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "8ac2f397-476e-51b3-aa46-2fb0f8e63589",
+            "fields": [
+                "Aidan Gomez",
+                "CEO of Cohere and co-author of the 'Attention Is All You Need' paper.",
+                "https://en.wikipedia.org/wiki/Aidan_Gomez",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "be9199a0-4944-52df-95d5-221a08e87052",
+            "fields": [
+                "Arthur Mensch",
+                "CEO and co-founder of Mistral AI.",
+                "https://en.wikipedia.org/wiki/Arthur_Mensch",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "61d6861f-ae68-5adc-b7ce-f3590621b0f3",
+            "fields": [
+                "Clement Delangue",
+                "CEO and co-founder of Hugging Face.",
+                "https://en.wikipedia.org/wiki/Clement_Delangue",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "a754774c-072f-5eea-875e-d7ab9df69681",
+            "fields": [
+                "Mustafa Suleyman",
+                "CEO of Microsoft AI and co-founder of DeepMind and Inflection AI.",
+                "https://en.wikipedia.org/wiki/Mustafa_Suleyman",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "137aaebf-1fa7-59e9-92e0-d05c7d38848e",
+            "fields": [
+                "Shane Legg",
+                "Co-founder and Chief AGI Scientist at Google DeepMind.",
+                "https://en.wikipedia.org/wiki/Shane_Legg",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "d3de5190-58a1-5868-b32a-dba6740e5bb7",
+            "fields": [
+                "Ashish Vaswani",
+                "Co-founder of Essential AI and lead author of the 'Attention Is All You Need' paper.",
+                "https://en.wikipedia.org/wiki/Ashish_Vaswani",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "crowdanki_uuid": "e19ab7db-9004-5920-b382-22235ff68c5c",
+            "fields": [
+                "Noam Shazeer",
+                "CEO of Character.ai and key contributor to the Transformer architecture.",
+                "https://en.wikipedia.org/wiki/Noam_Shazeer",
+                "2026-03-15"
+            ],
+            "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+            "tags": []
+        }
+    ]
+}
