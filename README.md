@@ -6,7 +6,7 @@ A curated collection of **100 high-quality flashcards** covering the latest deve
 
 The cards cover five core categories:
 1.  **Frameworks**: LangChain, CrewAI, LangGraph, DSPy, Semantic Kernel, and more.
-2.  **Models**: GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro, Llama 3, Sora, Flux, etc.
+2.  **Models**: GPT-5, Claude 4, Gemini 2.0, Llama 4, Sora, Flux, etc.
 3.  **Design Patterns**: RAG, ReAct, Chain-of-Thought, Multi-agent Systems, Agentic Workflows.
 4.  **Ecosystem**: Major companies like OpenAI, Anthropic, Google DeepMind, NVIDIA, Hugging Face.
 5.  **Figures**: Leading voices including Sam Altman, Dario Amodei, Demis Hassabis, Andrew Ng.
