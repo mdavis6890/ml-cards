@@ -86,7 +86,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "b457f4e2-d"
         },
         {
             "__type__": "Note",
@@ -98,7 +99,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "a7a3c500-3"
         },
         {
             "__type__": "Note",
@@ -110,7 +112,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "f13dcdf6-7"
         },
         {
             "__type__": "Note",
@@ -122,7 +125,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "dda04d72-e"
         },
         {
             "__type__": "Note",
@@ -134,7 +138,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "439b1cde-7"
         },
         {
             "__type__": "Note",
@@ -146,19 +151,21 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "2bee074e-f"
         },
         {
             "__type__": "Note",
             "crowdanki_uuid": "a6587ecc-b016-5e0c-b36b-0cc7fecd3c5a",
             "fields": [
                 "DSPy",
-                "A framework for programming—rather than prompting—language models, focusing on declarative modules and optimizers.",
+                "A framework for programming\u2014rather than prompting\u2014language models, focusing on declarative modules and optimizers.",
                 "https://github.com/stanfordnlp/dspy",
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "a6587ecc-b"
         },
         {
             "__type__": "Note",
@@ -170,7 +177,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "d5fda30b-d"
         },
         {
             "__type__": "Note",
@@ -182,7 +190,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "549840f2-7"
         },
         {
             "__type__": "Note",
@@ -194,7 +203,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "f389e43f-2"
         },
         {
             "__type__": "Note",
@@ -206,7 +216,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "593bb08e-6"
         },
         {
             "__type__": "Note",
@@ -218,7 +229,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "93c1b3b4-d"
         },
         {
             "__type__": "Note",
@@ -230,7 +242,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "3b6f3f88-a"
         },
         {
             "__type__": "Note",
@@ -242,7 +255,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "0d23a4e4-2"
         },
         {
             "__type__": "Note",
@@ -254,7 +268,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "5cca562e-e"
         },
         {
             "__type__": "Note",
@@ -266,7 +281,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "780b9200-a"
         },
         {
             "__type__": "Note",
@@ -278,7 +294,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "2d6104ea-5"
         },
         {
             "__type__": "Note",
@@ -290,7 +307,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "4e8984b9-b"
         },
         {
             "__type__": "Note",
@@ -302,7 +320,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "f837dcf2-d"
         },
         {
             "__type__": "Note",
@@ -314,7 +333,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "931d8b9e-f"
         },
         {
             "__type__": "Note",
@@ -326,7 +346,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "9f0f1c80-b"
         },
         {
             "__type__": "Note",
@@ -338,7 +359,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "d7424eb7-0"
         },
         {
             "__type__": "Note",
@@ -350,7 +372,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "b39869ee-9"
         },
         {
             "__type__": "Note",
@@ -362,7 +385,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "0ccea51e-8"
         },
         {
             "__type__": "Note",
@@ -374,7 +398,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "624b5b24-9"
         },
         {
             "__type__": "Note",
@@ -386,7 +411,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "05b73815-b"
         },
         {
             "__type__": "Note",
@@ -398,7 +424,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "0d43546c-3"
         },
         {
             "__type__": "Note",
@@ -410,7 +437,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "9f0e7c4d-3"
         },
         {
             "__type__": "Note",
@@ -422,7 +450,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "b3fbdf0a-9"
         },
         {
             "__type__": "Note",
@@ -434,7 +463,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "8b8f4dc3-6"
         },
         {
             "__type__": "Note",
@@ -446,7 +476,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "2868c701-8"
         },
         {
             "__type__": "Note",
@@ -458,7 +489,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "97b412a0-6"
         },
         {
             "__type__": "Note",
@@ -470,7 +502,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "b06f3359-4"
         },
         {
             "__type__": "Note",
@@ -482,7 +515,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "5643b14f-e"
         },
         {
             "__type__": "Note",
@@ -494,7 +528,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "5bbeb264-a"
         },
         {
             "__type__": "Note",
@@ -506,7 +541,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "59409e4a-3"
         },
         {
             "__type__": "Note",
@@ -518,7 +554,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "6a4f16c0-7"
         },
         {
             "__type__": "Note",
@@ -530,7 +567,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "08f4c5bd-a"
         },
         {
             "__type__": "Note",
@@ -542,7 +580,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "84110bbf-b"
         },
         {
             "__type__": "Note",
@@ -554,7 +593,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "ba2f9ad6-3"
         },
         {
             "__type__": "Note",
@@ -566,7 +606,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "bee7edce-8"
         },
         {
             "__type__": "Note",
@@ -578,7 +619,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "209b12bf-0"
         },
         {
             "__type__": "Note",
@@ -590,7 +632,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "3f044e6f-7"
         },
         {
             "__type__": "Note",
@@ -602,7 +645,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "c6c00ee6-9"
         },
         {
             "__type__": "Note",
@@ -614,7 +658,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "d4895e48-1"
         },
         {
             "__type__": "Note",
@@ -626,7 +671,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "b23565be-5"
         },
         {
             "__type__": "Note",
@@ -638,7 +684,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "17e5e2d5-a"
         },
         {
             "__type__": "Note",
@@ -650,7 +697,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "c8f399a3-3"
         },
         {
             "__type__": "Note",
@@ -662,7 +710,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "cb528e2d-b"
         },
         {
             "__type__": "Note",
@@ -674,7 +723,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "31133551-4"
         },
         {
             "__type__": "Note",
@@ -686,7 +736,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "af776bde-a"
         },
         {
             "__type__": "Note",
@@ -698,7 +749,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "05d896c7-e"
         },
         {
             "__type__": "Note",
@@ -710,7 +762,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "0b100a84-0"
         },
         {
             "__type__": "Note",
@@ -722,7 +775,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "a7e065b1-0"
         },
         {
             "__type__": "Note",
@@ -734,7 +788,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "f5035807-a"
         },
         {
             "__type__": "Note",
@@ -746,7 +801,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "59c2e40e-d"
         },
         {
             "__type__": "Note",
@@ -758,7 +814,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "0d02db0f-d"
         },
         {
             "__type__": "Note",
@@ -770,7 +827,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "f89c36ed-c"
         },
         {
             "__type__": "Note",
@@ -782,7 +840,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "16f403de-c"
         },
         {
             "__type__": "Note",
@@ -794,7 +853,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "20544ec3-6"
         },
         {
             "__type__": "Note",
@@ -806,7 +866,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "e5451acd-0"
         },
         {
             "__type__": "Note",
@@ -818,7 +879,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "e3e60462-7"
         },
         {
             "__type__": "Note",
@@ -830,7 +892,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "91a1e833-2"
         },
         {
             "__type__": "Note",
@@ -842,7 +905,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "b823bba9-d"
         },
         {
             "__type__": "Note",
@@ -854,7 +918,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "7a9fcc2b-8"
         },
         {
             "__type__": "Note",
@@ -866,7 +931,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "9fee8131-b"
         },
         {
             "__type__": "Note",
@@ -878,7 +944,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "c9918ab0-9"
         },
         {
             "__type__": "Note",
@@ -890,7 +957,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "8d3f40c9-d"
         },
         {
             "__type__": "Note",
@@ -902,7 +970,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "1aa2cb3f-f"
         },
         {
             "__type__": "Note",
@@ -914,7 +983,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "b0a19801-6"
         },
         {
             "__type__": "Note",
@@ -926,7 +996,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "019176a7-4"
         },
         {
             "__type__": "Note",
@@ -938,7 +1009,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "c0dfdf29-f"
         },
         {
             "__type__": "Note",
@@ -950,7 +1022,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "df218c78-0"
         },
         {
             "__type__": "Note",
@@ -962,7 +1035,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "fc29b31f-9"
         },
         {
             "__type__": "Note",
@@ -974,7 +1048,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "1a70312c-0"
         },
         {
             "__type__": "Note",
@@ -986,7 +1061,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "f8a5d792-4"
         },
         {
             "__type__": "Note",
@@ -998,7 +1074,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "bfbd132f-2"
         },
         {
             "__type__": "Note",
@@ -1010,7 +1087,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "dd4812ac-0"
         },
         {
             "__type__": "Note",
@@ -1022,7 +1100,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "ec6392a5-f"
         },
         {
             "__type__": "Note",
@@ -1034,7 +1113,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "ad5e5802-3"
         },
         {
             "__type__": "Note",
@@ -1046,7 +1126,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "6b53f369-a"
         },
         {
             "__type__": "Note",
@@ -1058,7 +1139,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "3b4a43f4-c"
         },
         {
             "__type__": "Note",
@@ -1070,7 +1152,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "e0435589-0"
         },
         {
             "__type__": "Note",
@@ -1082,7 +1165,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "1a9e981d-7"
         },
         {
             "__type__": "Note",
@@ -1094,7 +1178,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "30106028-9"
         },
         {
             "__type__": "Note",
@@ -1106,7 +1191,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "2e240909-7"
         },
         {
             "__type__": "Note",
@@ -1118,7 +1204,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "14b0c4cf-0"
         },
         {
             "__type__": "Note",
@@ -1130,7 +1217,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "d777113e-0"
         },
         {
             "__type__": "Note",
@@ -1142,7 +1230,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "fb84f78d-f"
         },
         {
             "__type__": "Note",
@@ -1154,7 +1243,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "b14b7e39-4"
         },
         {
             "__type__": "Note",
@@ -1166,7 +1256,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "0e2457a8-a"
         },
         {
             "__type__": "Note",
@@ -1178,7 +1269,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "fc58af7b-4"
         },
         {
             "__type__": "Note",
@@ -1190,7 +1282,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "6527aae1-3"
         },
         {
             "__type__": "Note",
@@ -1202,7 +1295,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "8ac2f397-4"
         },
         {
             "__type__": "Note",
@@ -1214,7 +1308,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "be9199a0-4"
         },
         {
             "__type__": "Note",
@@ -1226,7 +1321,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "61d6861f-a"
         },
         {
             "__type__": "Note",
@@ -1238,7 +1334,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "a754774c-0"
         },
         {
             "__type__": "Note",
@@ -1250,7 +1347,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "137aaebf-1"
         },
         {
             "__type__": "Note",
@@ -1262,7 +1360,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "d3de5190-5"
         },
         {
             "__type__": "Note",
@@ -1274,7 +1373,8 @@
                 "2026-03-15"
             ],
             "note_model_uuid": "b18f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
-            "tags": []
+            "tags": [],
+            "guid": "e19ab7db-9"
         }
     ]
 }
