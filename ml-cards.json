@@ -2,6 +2,7 @@
     "__type__": "Deck",
     "children": [],
     "crowdanki_uuid": "a78f8b3c-6202-4b77-94d7-4d6f4d6f4d6f",
+    "is_subdeck": true,
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
