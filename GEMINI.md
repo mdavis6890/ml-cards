@@ -3,8 +3,7 @@
 This repository contains a curated collection of 100 flashcards for Anki, specifically designed for the generative and agentic AI era as of 2026.
 
 ## Structure
-- `ai_flashcards/`: The main CrowdAnki export directory.
-  - `ai_flashcards.json`: The CrowdAnki-compatible JSON file containing 100 notes.
+- `ml-cards.json`: The CrowdAnki-compatible JSON file containing 100 notes.
 - `.gemini/`: Global context and memories (inherited from workspace).
 
 ## AI Agent Context & Mandates
@@ -17,5 +16,5 @@ This repository contains a curated collection of 100 flashcards for Anki, specif
 - **Card Content**: Focus on the intersection of LLMs, agentic workflows, multi-agent systems (MAS), and the broader AI ecosystem (models, frameworks, companies, and figures).
 
 ## Key Files
-- `ai_flashcards/ai_flashcards.json`: Primary source of truth for the deck.
+- `ml-cards.json`: Primary source of truth for the deck.
 - `README.md`: Human-readable project overview.

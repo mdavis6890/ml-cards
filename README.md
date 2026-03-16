@@ -20,8 +20,17 @@ This deck is provided in **CrowdAnki format**, which allows for easy updates and
     - Go to `Tools` -> `Add-ons`.
     - Click `Get Add-ons` and enter the code: `1788670778`.
 2.  **Import the Deck**:
-    - Go to `File` -> `CrowdAnki: Import from directory`.
-    - Select the `ai_flashcards/` folder in this repository.
+
+    **Option A: Direct GitHub Import (Recommended)**
+    - In Anki, go to `File` -> `CrowdAnki: Import from GitHub`.
+    - Paste the repository URL: `https://github.com/mdavis6890/ml-cards`
+    - Click `OK`.
+
+    **Option B: Manual Import**
+    - Download this repository as a ZIP file.
+    - Unzip it.
+    - In Anki, go to `File` -> `CrowdAnki: Import from directory`.
+    - Select the root `ml-cards-main` folder that you unzipped.
     - Click `OK`.
 
 ## 🛠️ Card Structure
